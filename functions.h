@@ -1,1 +1,2 @@
-void nothing();
+void one();
+void two(int N);
